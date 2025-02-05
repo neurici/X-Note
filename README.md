@@ -8,4 +8,4 @@ X:/Note este o aplicație web de adaugare/editare/partajare a unor note/notițe 
 
 **Parola**: root
 
-![X:/Note](https://i.imgur.com/2nwcnC6.jpg)
+![X:/Note](https://imgur.com/a/tR783yA)
